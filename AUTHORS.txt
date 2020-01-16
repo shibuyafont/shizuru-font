@@ -5,5 +5,5 @@
 # Names should be added to this file as:
 # Name or Organization
 
-En ???, Kuwasawa Design School
-????, Work Center Hikawa
+Yen Peiyu, Kuwasawa Design School
+Hirokazu Iwai, Work Center Hikawa
