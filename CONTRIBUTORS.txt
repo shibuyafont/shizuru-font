@@ -6,9 +6,9 @@
 # Names should be added to this file as:
 # Name
 
-??????, Kuwasawa Design School
-?????, Work Center Hikawa
-Shimizu ????, Work Center Hikawa
+Yen Peiyu, Kuwasawa Design School
+Hirokazu Iwai, Work Center Hikawa
+Tomomi Shimizu, Work Center Hikawa
 Laila Cassim, Graphic Designer Art Director
 Ayumu Isomura, Kuwasawa Design School/fukufukuplus corporation
 
