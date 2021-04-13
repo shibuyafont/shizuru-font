@@ -4,7 +4,7 @@ import shutil
 
 __main__.main(("-g","sources/ShizuruFont.glyphs", "-o","ttf",))
 
-path = "master_ttf/ShizuruFont-Regular.ttf"
+path = "master_ttf/Shizuru-Regular.ttf"
 
 
 modifiedFont = TTFont(path)
@@ -19,7 +19,7 @@ modifiedFont["DSIG"].signatureRecords = []
 modifiedFont["gasp"] = newTable("gasp")
 modifiedFont["gasp"].gaspRange = {65535: 0x000A} #Font is shipping UNHINTED :D
 
-modifiedFont.save("fonts/ttf/ShizuruFont-Regular.ttf")
+modifiedFont.save("fonts/ttf/Shizuru-Regular.ttf")
 
 shutil.rmtree("instance_ufo")
 shutil.rmtree("master_ufo")

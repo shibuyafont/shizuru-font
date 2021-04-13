@@ -39,7 +39,7 @@ date = "2020-01-16 20:40:09 +0000";
 designer = Shibuyafont;
 designerURL = "http://www.shibuyafont.jp/index.html";
 disablesAutomaticAlignment = 1;
-familyName = "Shizuru Font";
+familyName = Shizuru;
 featurePrefixes = (
 {
 automatic = 1;
