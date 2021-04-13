@@ -17,7 +17,7 @@
 ・このフォントを使用し、派生フォントを作ることもできます。<br />
 　ただし、配布の際はSIL Open Font Licenseに基づいてリリースする必要があります。<br />
 ・SILライセンスについて詳しくはライセンス原文日本語サイト<br />
-　（https://ja.osdn.net/projects/opensource/wiki/SIL_Open_Font_License_1.1）<br />
+　（https://licenses.opensource.jp/OFL-1.1/OFL-1.1.html ）<br />
 
 <h2>収録文字</h2>
 ・半角英数　95文字<br />
