@@ -1,6 +1,6 @@
 {
 .appVersion = "1342";
-copyright = "Copyright 2020 The Shizuru Font Project Authors (https://github.com/shibuyafont/shizuru-font), all rights reserved.";
+copyright = "Copyright 2020 The Shizuru Project Authors (https://github.com/shibuyafont/shizuru-font), all rights reserved.";
 customParameters = (
 {
 name = vendorID;
